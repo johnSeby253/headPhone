@@ -192,6 +192,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: auto;
 }
 
 .overlay h1 {
@@ -222,6 +223,9 @@ nav {
 .choose1 h1 {
     font-size: 2rem;
 }
+.gal{
+    margin: auto;
+}
 
 }
 
@@ -234,5 +238,9 @@ nav {
         align-items: center;
         justify-content: center;
     }
+    .gal{
+        margin: auto;
+    }
+    
 
 }
